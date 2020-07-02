@@ -1,6 +1,5 @@
 # Dallin Romney
-# Design of Experiments HW2
-# January 24, 2019
+# Design of Experiments
 
 # Data
 rm(list = ls()) # clear workspace
